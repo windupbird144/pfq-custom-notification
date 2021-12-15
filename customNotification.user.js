@@ -3,7 +3,7 @@
 // @namespace    https://github.com/windupbird144/pfq-custom-notification
 // @version      0.1
 // @description  Use any audio from your PC as the notification sound for PFQ
-// @author       https://pokefarm.com/user/drwh
+// @author       https://pokefarm.com/user/drwho
 // @match        https://pokefarm.com/*
 // @grant        none
 // @run-at       document-end
