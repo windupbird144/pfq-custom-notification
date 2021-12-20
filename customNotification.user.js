@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Custom Notification Sound
+// @namespace    https://github.com/windupbird144/pfq-custom-notification
 // @version      0.2.0
 // @description  Use a custom notification audio
 // @author       https://pokefarm.com/user/DrWho
